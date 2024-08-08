@@ -1,2 +1,3 @@
-# Adventure-Works-Sales-Dashboard
-Business Intelligence with Power BI (End-to-End Solution) Technical Intensive Training Session
+# Adventure-Works-Bike-Shop-Sales-Report
+An end-to-end data analytics solution for Sales Department
+
