@@ -37,7 +37,7 @@ Metrics and KPIs: Defined and calculated key performance indicators (KPIs) such 
 Report Design: Developed a Power BI report featuring interactive dashboards with visualizations like bar charts, map charts, and matrices to show sales performance across different dimensions. Included slicers and filters to allow users to drill down by country and time period. Designed the report layout to be user-friendly and intuitive, incorporating visual elements that highlighted trends.
 
 ### Result
-![Sales Dashbaord](URL)
+![Sales Dashbaord](https://github.com/angelicamerced/Adventure-Works-Sales-Dashboard/blob/main/Sales%20Dashboard.jpg)
 
 ﻿At $51,878,268, FY2020 had the highest Sum of Sales Amount and was 117.42% higher than FY2018, which had the lowest Sum of Sales Amount at $23,860,893.﻿﻿
 FY2020 had the highest Sum of Sales Amount at $51,878,268, followed by FY2019 at $34,070,112.67 and FY2018 at $23,860,893.﻿﻿
